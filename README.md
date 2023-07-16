@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snigdha822
 - 🧑‍💻 I'm currently pursuing B.Sc in IT AI,2nd year 
-- 👀 I’m interested in Web Development||Python||DBMS
+- 👀 I’m interested in Web Development ||Python|| DBMS
 - 🌱 I’m currently learning Web Development and DBMS
 
 <!---
